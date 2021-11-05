@@ -3,8 +3,8 @@
 bits 64
 
 segment .data
-	msg db "Hello world!", 10, 0
-	sz equ $- msg
+msg db "Hello world!", 10, 0
+sz equ $- msg
 
 segment .text
 global _start
