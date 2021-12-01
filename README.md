@@ -11,6 +11,7 @@ ld hello.o -o hello
 
 ```shell
 make hello
+make swap
 ```
 <p>You can clean the project with :</p>
 
