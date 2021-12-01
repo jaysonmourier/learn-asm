@@ -8,10 +8,12 @@ ld hello.o -o hello
 ./hello
 ```
 <p>or :</p>
+
 ```shell
 make hello
 ```
 <p>You can clean the project with :</p>
+
 ```shell
 make clean
 ```
